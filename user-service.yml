@@ -3,4 +3,11 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}468c77706827204480b6a8730e79326c3150af5d3681bed07471328007ee32ff_test'
+    password: '{cipher}468c77706827204480b6a8730e79326c3150af5d3681bed07471328007ee32ff'
+
+token:
+  expiration_time: 86400000
+  secret: leganza
+
+gateway:
+  ip: 192.168.219.153  
