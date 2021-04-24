@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: leganza_test_01
+  secret: leganza
 
 gateway:
   ip: 192.168.219.153  
