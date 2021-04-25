@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: leganza
+  secret: '{cipher}AQBtG5h8SAmxJ+utFhOmKrV+oQgxK+pdFNQnx4vVZmGLdYCyeqpvxVy2osz6zuIaVZGHPlPju6aHTcaTZo/gJNfp3bd0VsgDY3ZaiXr6bu6WpuTpjvLM9FGi0WMcrOzxsuXfz4IzQXvNDmprCytTFLzk+dfLbI0DLxQbIfu7Rmh1X+FrcOjkNGUkrW8v4KXXm8X4MJSVyAr9uKATxokBkrkBM8aWCy73Gy67DE1Fdk0WARFgeQMaQSN0nAUzFCK9Kcx8c5Xka7LdGNxSP9L19X7cEcQxI8SnNGS95TANsTA1QfRBaVO2jUqkYfk3fZ18sHPjfRnl3cdXVrQRk1O26RrrmNyEuXif2G4N2foHQjkjNmvMsmKrmGL3rF9cxXVrlWI='
 
 gateway:
   ip: 192.168.219.153  
